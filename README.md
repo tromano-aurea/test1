@@ -39,3 +39,5 @@ commit 3
 Branch Commit 2 - squash
 
 branch 1
+
+branch 2
