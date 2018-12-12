@@ -45,3 +45,5 @@ branch 2
 Branch Commit 4 - normal
 
 branc 1
+
+branch 2
