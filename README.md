@@ -47,3 +47,5 @@ Branch Commit 4 - normal
 branc 1
 
 branch 2
+
+branch 3
