@@ -35,3 +35,7 @@ commit 1
 commit 2
 
 commit 3
+
+Branch Commit 2 - squash
+
+branch 1
