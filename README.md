@@ -41,3 +41,13 @@ Branch Commit 2 - squash
 branch 1
 
 branch 2
+
+Branch Commit 4 - normal
+
+branc 1
+
+branch 2
+
+branch 3
+
+branch 4
