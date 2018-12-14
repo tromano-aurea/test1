@@ -8,4 +8,7 @@ commit2
 
 
 Test 3 commits
+
 commit 1
+
+commit 2
