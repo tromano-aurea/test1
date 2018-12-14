@@ -30,3 +30,7 @@ commit 5
 
 
 Test 7 commits
+
+commit 1
+
+commit 2
